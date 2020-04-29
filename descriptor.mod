@@ -1,4 +1,4 @@
-name="The Last Bastion"
+name="The Sun Has Fallen"
 tags={
 	"Alternative History"
 	"Map"
